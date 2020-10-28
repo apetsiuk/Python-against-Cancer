@@ -16,6 +16,10 @@ Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.c
 
 [Cancer Research Institute](https://www.cancerresearch.org/events/conferences)
 
+# Statistics and Reports
+
+[President's Cancer Panel - Reports](https://deainfo.nci.nih.gov/Advisory/pcp/annualReports/index.htm)
+
 # Let's start with some theory
 
 [**Why is it so hard to cure cancer?**](https://www.youtube.com/watch?v=h2rR77VsF5c) **(Kyuson Yun, TED-Ed 2017)**
