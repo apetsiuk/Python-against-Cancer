@@ -7,22 +7,25 @@ Hi there! Here is my personal cancer research hobby project. I have no medical o
 ***
 
 ![title image](images/title.png)
-[https://unsplash.com/photos/J28Nn-CDbII](https://unsplash.com/photos/J28Nn-CDbII)
-Photo: National Cancer Institute. Brain Cancer Chromosomes. Chromosomes prepared from a malignant glioblastoma visualized by spectral karyotyping (SKY) reveal an enormous degree of chromosomal instability -- a hallmark of cancer. Created by Thomas Ried, 2014
+Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.com/photos/J28Nn-CDbII) Chromosomes prepared from a malignant glioblastoma visualized by spectral karyotyping (SKY) reveal an enormous degree of chromosomal instability -- a hallmark of cancer. Created by Thomas Ried, 2014
 
 # Conferences
 [National Cancer Institute](https://www.cancer.gov/news-events/events/conferences)
+
 [American Association for Cancer Research](https://www.aacr.org/professionals/meetings/meetings-and-workshops-calendar/)
+
 [Cancer Research Institute](https://www.cancerresearch.org/events/conferences)
 
 # Let's start with some theory
 
-**Why is it so hard to cure cancer?** - Kyuson Yun, TED-Ed 2017
-[https://www.youtube.com/watch?v=h2rR77VsF5c](https://www.youtube.com/watch?v=h2rR77VsF5c)
+[Why is it so hard to cure cancer? (Kyuson Yun, TED-Ed 2017)](https://www.youtube.com/watch?v=h2rR77VsF5c)
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Why is it so difficult to cure cancer? After billions of dollars in research, we have not found a solution for a disease that affects more than 14 million people and their families at any given time. 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancer arises as normal cells accumulate mutations. Most of the time, cells can detect mutations or DNA damage and either fix them or self destruct. However, some mutations allow cancerous cells to grow unchecked and invade nearby tissues, or even metastasize to distant organs.
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancers become almost incurable once they metastasize. And cancer is incredibly complex. It is not just one disease. There are more than 100 different types and we don't have a magic bullet that can cure all of them.
+> "Why is it so difficult to cure cancer? After billions of dollars in research, we have not found a solution for a disease that affects more than 14 million people and their families at any given time.
+
+> Cancer arises as normal cells accumulate mutations. Most of the time, cells can detect mutations or DNA damage and either fix them or self destruct. However, some mutations allow cancerous cells to grow unchecked and invade nearby tissues, or even metastasize to distant organs.
+
+> Cancers become almost incurable once they metastasize. And cancer is incredibly complex. It is not just one disease. There are more than 100 different types and we don't have a magic bullet that can cure all of them.
+
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For most cancers, treatments usually include a combination of surgery to remove tumors and radiation and chemotherapy to kill any cancerous cells left behind. Hormone therapies, immunotherapy, and targeted treatments tailored for a specific type of cancer are sometimes used, too. In many cases, these treatments are effective and the patient becomes cancer-free. But they are far from 100% effective 100% of the time.
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So what would we have to do to find cures for all the different forms of cancer? We are beginning to understand a few of the problems scientists would have to solve.
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, we need new, better ways of studying cancer. Most cancer treatments are developed using cell lines grown in labs from cultures of human tumors. These cultured cells have given us critical insights about cancer genetics and biology, but they lack much of the complexity of a tumor in an actual living organism.
@@ -37,14 +40,12 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 
 ***
 
-**Jay Bradner: Open-source cancer research**
-[https://www.youtube.com/watch?v=wOiKRVH0nQ8](https://www.youtube.com/watch?v=wOiKRVH0nQ8)
+[Jay Bradner: Open-source cancer research](https://www.youtube.com/watch?v=wOiKRVH0nQ8)
 > JQ1 molecule
 
 ***
 
-**Fighting Cancer with Python**
-[https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4](https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4)
+[Fighting Cancer with Python](https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4)
 
 > Central dogma of biology says that we have a genomic information (the instructions for life) encoded in DNA, which is transcribed and ultimately translated into proteins which carry out these instructions.
 DNA -> transcription -> RNA -> translation -> Protein
@@ -54,33 +55,47 @@ DNA -> transcription -> RNA -> translation -> Protein
 
 ***
 
-**Introduction to Cancer Bioinformatics I: Inferring Genomic Variation from Tumor Sequencing Data**
-[https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-01](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-01)
+[Introduction to Cancer Bioinformatics I: Inferring Genomic Variation from Tumor Sequencing Data](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-01)
 
-**Introduction to Cancer Bioinformatics II: Tumor Phylogeny**
-[https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-02](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-02)
+[Introduction to Cancer Bioinformatics II: Tumor Phylogeny](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-02)
 
-**Introduction to Cancer Bioinformatics III: Cancer Progression Networks**
-[https://simons.berkeley.edu/talks/niko-beerenwinkel-2016-01-21](https://simons.berkeley.edu/talks/niko-beerenwinkel-2016-01-21)
+[Introduction to Cancer Bioinformatics III: Cancer Progression Networks](https://simons.berkeley.edu/talks/niko-beerenwinkel-2016-01-21)
 
 ***
 
-**MIT CompBio Lecture 22 - Cancer Genomics (Fall 2019)**
-[https://www.youtube.com/watch?v=E9YxwgKZWUw](https://www.youtube.com/watch?v=E9YxwgKZWUw)
+[MIT CompBio Lecture 22 - Cancer Genomics (Fall 2019)](https://www.youtube.com/watch?v=E9YxwgKZWUw)
 ***
 
-**Artificial intelligence for pathology**
-[https://www.youtube.com/watch?v=3NiFjm_SiFs&list=LL&index=2](https://www.youtube.com/watch?v=3NiFjm_SiFs&list=LL&index=2)
+[Artificial intelligence for pathology](https://www.youtube.com/watch?v=3NiFjm_SiFs&list=LL&index=2)
 ***
 
-**Introduction to Digital Pathology and AI Algorithms**
-[https://www.youtube.com/watch?v=XYpGX3-TTIw&list=LL&index=3](https://www.youtube.com/watch?v=XYpGX3-TTIw&list=LL&index=3)
+[Introduction to Digital Pathology and AI Algorithms](https://www.youtube.com/watch?v=XYpGX3-TTIw&list=LL&index=3)
 
 ***
-***
+
 
 # Alternative views
 
-**The Truth About Cancer - Global Quest 2015**
-[https://www.youtube.com/watch?v=lnhZKHU44mI&list=PLNtE1N93r23BT0AOX6rkXiSV7S3Rizs7g&index=1](https://www.youtube.com/watch?v=lnhZKHU44mI&list=PLNtE1N93r23BT0AOX6rkXiSV7S3Rizs7g&index=1)
+[The Truth About Cancer - Global Quest 2015](https://www.youtube.com/watch?v=lnhZKHU44mI&list=PLNtE1N93r23BT0AOX6rkXiSV7S3Rizs7g&index=1)
+
+***
+
+# Bioinformatics Fundamentals for Python
+
+[Maria Nattestad: How Big Data is transforming biology and how we are using Python to make sense](https://www.youtube.com/watch?v=UFnoxLN17ko)
+
+[Five steps for getting started with bioinformatics (Maria Nattestad, OMGenomics)](https://www.youtube.com/watch?v=52Q0MYWbHCs&list=PLevQaddMWNQw76TYDYlgqfpoPsqfppRPQ&index=3)
+
+
+# Literature
+
+[Siddhartha Mukherjee, The Emperor of All Maladies: A Biography of Cancer](https://www.amazon.com/gp/product/B003UYUP58/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+
+[Andreas D. Baxevanis, B. F. Francis Ouellette (Editors), Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/0471478784)
+
+[Biopython Tutorial and Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
+
+***
+
+
 
