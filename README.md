@@ -75,7 +75,6 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 **(Ben Raphael [Brown University] and Niko Beerenwinkel [ETH Zürich], 2016)**
 
 [**Introduction to Cancer Bioinformatics III: Cancer Progression Networks**](https://simons.berkeley.edu/talks/niko-beerenwinkel-2016-01-21)
-ben-raphael-and-niko-beerenwinkel-2016-01-20-02)
 **Niko Beerenwinkel [ETH Zürich], 2016)**
 
 ***
