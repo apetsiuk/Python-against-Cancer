@@ -18,7 +18,7 @@ Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.c
 
 # Let's start with some theory
 
-[Why is it so hard to cure cancer?](https://www.youtube.com/watch?v=h2rR77VsF5c) Kyuson Yun, TED-Ed 2017
+[**Why is it so hard to cure cancer?**](https://www.youtube.com/watch?v=h2rR77VsF5c) **(Kyuson Yun, TED-Ed 2017)**
 
 > "Why is it so difficult to cure cancer? After billions of dollars in research, we have not found a solution for a disease that affects more than 14 million people and their families at any given time.
 
@@ -49,12 +49,12 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 
 ***
 
-[Open-source cancer research](https://www.youtube.com/watch?v=wOiKRVH0nQ8) Jay Bradner, TED 2011
+[**Open-source cancer research**](https://www.youtube.com/watch?v=wOiKRVH0nQ8) **(Jay Bradner, TED 2011)**
 > JQ1 molecule
 
 ***
 
-[Fighting Cancer with Python](https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4) Erik Evensen, 2015
+[**Fighting Cancer with Python**](https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4) **(Erik Evensen, 2015)**
 
 > Central dogma of biology says that we have a genomic information (the instructions for life) encoded in DNA, which is transcribed and ultimately translated into proteins which carry out these instructions.
 
@@ -68,7 +68,8 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 
 ***
 
-[Introduction to Cancer Bioinformatics I: Inferring Genomic Variation from Tumor Sequencing Data](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-01) Ben Raphael (Brown University) and Niko Beerenwinkel (ETH Zürich), 2016
+[**Introduction to Cancer Bioinformatics I: Inferring Genomic Variation from Tumor Sequencing Data**](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-01)
+**(Ben Raphael (Brown University) and Niko Beerenwinkel (ETH Zürich), 2016)**
 
 [Introduction to Cancer Bioinformatics II: Tumor Phylogeny](https://simons.berkeley.edu/talks/ben-raphael-and-niko-beerenwinkel-2016-01-20-02) Ben Raphael (Brown University) and Niko Beerenwinkel (ETH Zürich), 2016
 
@@ -76,28 +77,28 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 
 ***
 
-[MIT CompBio Lecture 22 - Cancer Genomics (Fall 2019)](https://www.youtube.com/watch?v=E9YxwgKZWUw)
+[**MIT CompBio Lecture 22 - Cancer Genomics (Fall 2019)**](https://www.youtube.com/watch?v=E9YxwgKZWUw)
 ***
 
-[Artificial intelligence for pathology](https://www.youtube.com/watch?v=3NiFjm_SiFs&list=LL&index=2)
+[**Artificial intelligence for pathology**](https://www.youtube.com/watch?v=3NiFjm_SiFs&list=LL&index=2)
 ***
 
-[Introduction to Digital Pathology and AI Algorithms](https://www.youtube.com/watch?v=XYpGX3-TTIw&list=LL&index=3)
+[**Introduction to Digital Pathology and AI Algorithms**](https://www.youtube.com/watch?v=XYpGX3-TTIw&list=LL&index=3)
 
 ***
 
 
 # Alternative views
 
-[The Truth About Cancer - Global Quest 2015](https://www.youtube.com/watch?v=lnhZKHU44mI&list=PLNtE1N93r23BT0AOX6rkXiSV7S3Rizs7g&index=1)
+[**The Truth About Cancer - Global Quest 2015**](https://www.youtube.com/watch?v=lnhZKHU44mI&list=PLNtE1N93r23BT0AOX6rkXiSV7S3Rizs7g&index=1)
 
 ***
 
 # Bioinformatics Fundamentals for Python
 
-[How Big Data is transforming biology and how we are using Python to make sense](https://www.youtube.com/watch?v=UFnoxLN17ko) Maria Nattestad, PyData NYC 2015
+[**How Big Data is transforming biology and how we are using Python to make sense**](https://www.youtube.com/watch?v=UFnoxLN17ko) **(Maria Nattestad, PyData NYC 2015)**
 
-[Five steps for getting started with bioinformatics](https://www.youtube.com/watch?v=52Q0MYWbHCs&list=PLevQaddMWNQw76TYDYlgqfpoPsqfppRPQ&index=3) Maria Nattestad, OMGenomics
+[**Five steps for getting started with bioinformatics**](https://www.youtube.com/watch?v=52Q0MYWbHCs&list=PLevQaddMWNQw76TYDYlgqfpoPsqfppRPQ&index=3) **(Maria Nattestad, OMGenomics)**
 
 
 # Literature
