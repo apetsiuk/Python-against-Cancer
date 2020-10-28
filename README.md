@@ -47,12 +47,10 @@ They can induce normal cells to form  blood vessels that feed the tumor and remo
 
 > But the good news is we are making progress. Even with all we don't know, the average mortality rate for most kinds of cancer has dropped significantly since the 1970s and is still falling. We are learning more every day, and each new piece of information gives us one more tool to add to our arsenal."
 
-***
 
 [**Open-source cancer research**](https://www.youtube.com/watch?v=wOiKRVH0nQ8) **(Jay Bradner, TED 2011)**
-> JQ1 molecule
+> "How does cancer know it's cancer? At Jay Bradner's lab, they found a molecule that might hold the answer, JQ1 -- and instead of patenting JQ1, they published their findings and mailed samples to 40 other labs to work on. An inspiring look at the open-source future of medical research."
 
-***
 
 [**Fighting Cancer with Python**](https://www.youtube.com/watch?v=AnwkXglmLGQ&list=LL&index=4) **(Erik Evensen, 2015)**
 
