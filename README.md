@@ -1,11 +1,10 @@
+Hi there! Here is my personal cancer research hobby project. I have no medical or biological degree, so my vision is purely based on data science. I tried to collect enough theoretical material so that an amateur like me could approach the problem from different angles and make one's little contribution. The repository will be updated whenever possible. Feel free to join me if you have the same passion and interest. Thank you, and may the Force be with you!
+
+
 ![title image](images/title.png)
 *Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.com/photos/J28Nn-CDbII) Chromosomes prepared from a malignant glioblastoma visualized by spectral karyotyping (SKY) reveal an enormous degree of chromosomal instability -- a hallmark of cancer. Created by Thomas Ried, 2014*
 
 # Python against Cancer
-
-Hi there! Here is my personal cancer research hobby project. I have no medical or biological degree, so my vision is purely based on data science. I tried to collect enough theoretical material so that an amateur like me could approach the problem from different angles and make one's little contribution. The repository will be updated whenever possible. Feel free to join me if you have the same passion and interest. Thank you, and may the Force be with you!
-
-***
 
 ### So what is cancer, in short?
 
@@ -26,6 +25,7 @@ networks of thermodynamic equilibria) can help to solve major biological problem
 - Participating in interdisciplinary social networks and advertising ongoing progress in research 
 has great potential in building a collective knowledge base and can help find the right person to 
 collaborate with.
+<br /><br />
 
 
 # Let's start with some theory
