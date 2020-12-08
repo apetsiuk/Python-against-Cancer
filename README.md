@@ -1,15 +1,13 @@
+![title image](images/title.png)
+*Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.com/photos/J28Nn-CDbII) Chromosomes prepared from a malignant glioblastoma visualized by spectral karyotyping (SKY) reveal an enormous degree of chromosomal instability -- a hallmark of cancer. Created by Thomas Ried, 2014*
+
 # Python against Cancer
-*This repository will contain materials and references related to bioinformatics and cancer research.*
-***
 
 Hi there! Here is my personal cancer research hobby project. I have no medical or biological degree, so my vision is purely based on data science. I tried to collect enough theoretical material so that an amateur like me could approach the problem from different angles and make one's little contribution. The repository will be updated whenever possible. Feel free to join me if you have the same passion and interest. Thank you, and may the Force be with you!
 
 ***
 
-![title image](images/title.png)
-*Photo: [National Cancer Institute. Brain Cancer Chromosomes.](https://unsplash.com/photos/J28Nn-CDbII) Chromosomes prepared from a malignant glioblastoma visualized by spectral karyotyping (SKY) reveal an enormous degree of chromosomal instability -- a hallmark of cancer. Created by Thomas Ried, 2014*
-
-#### So what is cancer, in short?
+### So what is cancer, in short?
 
 - Cancer is a group of diseases characterized by uncontrolled cell division.
 - There are over 250 types of cancer, where no two tumors are identical.
@@ -19,7 +17,7 @@ its life.
 mutations of oncogenes and tumor suppressor genes.
 
 
-#### How can a computer scientist help in cancer research?
+### How can a computer scientist help in cancer research?
 
 - Creation of web services and mobile apps for communication with family and doctors, as well as 
 for tracking the course of the disease.
@@ -29,11 +27,10 @@ networks of thermodynamic equilibria) can help to solve major biological problem
 has great potential in building a collective knowledge base and can help find the right person to 
 collaborate with.
 
-***
 
 # Let's start with some theory
 
-#### Central dogma of molecular biology
+### Central dogma of molecular biology
 
 ![central dogma](images/central_dogma.PNG)
 
@@ -51,7 +48,7 @@ and provide insight into the role of genetic components in influencing tumor pro
 approaches to classify and predict how our genes affect tumor progression, we can better understand
 how cancer functions and progresses so that we can develop smarter treatments.
 
-#### Cancer mutations
+### Cancer mutations
 
 ![normal vs cancer genome](images/normal_vs_cancer_genome.PNG)
 
